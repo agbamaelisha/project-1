@@ -10,7 +10,7 @@ _And obviously it will take a lot of your time_
 
 
 <!--Strikethrough-->
-It  also wont be ~~free~~
+It  alhso wont be ~~free~~
 
 <!--Strong-->
 **If you stay consistent with your learning, you definitely will get to learn becoming a Dev Ops Engineer**
